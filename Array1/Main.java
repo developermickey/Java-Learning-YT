@@ -1,3 +1,11 @@
+/*
+Problem Description
+Write a program to print sum of elements of the input array A of size N.
+
+Note: User is supposed to write a program from scratch to add the elements of the input array and print the result.
+ 
+ */
+
 import java.util.*;
 
 public class Main {
